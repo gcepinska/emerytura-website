@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/emerytura-website/static/css/main.073c9b0a.css",
-    "main.js": "/emerytura-website/static/js/main.de6ebecf.js",
+    "main.js": "/emerytura-website/static/js/main.f7100759.js",
     "static/js/787.810a7dc5.chunk.js": "/emerytura-website/static/js/787.810a7dc5.chunk.js",
     "index.html": "/emerytura-website/index.html",
     "main.073c9b0a.css.map": "/emerytura-website/static/css/main.073c9b0a.css.map",
-    "main.de6ebecf.js.map": "/emerytura-website/static/js/main.de6ebecf.js.map",
+    "main.f7100759.js.map": "/emerytura-website/static/js/main.f7100759.js.map",
     "787.810a7dc5.chunk.js.map": "/emerytura-website/static/js/787.810a7dc5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.de6ebecf.js"
+    "static/js/main.f7100759.js"
   ]
 }
